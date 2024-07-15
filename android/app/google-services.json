@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "775206149730",
+    "firebase_url": "https://dog-feeding-ded68-default-rtdb.firebaseio.com",
+    "project_id": "dog-feeding-ded68",
+    "storage_bucket": "dog-feeding-ded68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775206149730:android:3223651beb045c0f217b3b",
+        "android_client_info": {
+          "package_name": "com.aries.doggyfeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPfgOK8bbOb3JJKZ0zdHaAsMj-WHkSXwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
